@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekanth-sp&label=Profile%20views&color=0e75b6&style=flat" alt="sreekanth-sp" /> </p>
 
-- 🔭 I’m currently working on **SpringBoot**
+- 🔭 I’m currently working as **Software Engineer @ Trois Infotech**
 
-- 🌱 I’m currently learning **Spring,Hibernate,Mysql, RestAPI**
+- 🌱 I’m currently doing with **SpringBoot,Hibernate,PostgreSql, RestAPI**
 
 - 💬 Ask me about **Java-DSA, Spring, API**
 
-- 📫 How to reach me **sreekanthsp.info@gmail.com**
+- 📫 How to reach me **sreekanth.sp@trois.in**
 
 - ⚡ Fun fact **I am funny**
 
